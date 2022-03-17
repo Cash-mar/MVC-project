@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="is342_14_DB_1@mysqlis.radiotech.su" uuid="699b0855-9b05-4a20-940d-b79749516259">
+    <data-source source="LOCAL" name="MAT" uuid="dbedd1f1-c852-4528-904b-686bc009bdec">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
